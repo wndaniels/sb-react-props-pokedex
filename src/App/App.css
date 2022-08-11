@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin: 50px;
+}
+
+.App-header{
+  color: gray;
+  font-family: monospace;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
